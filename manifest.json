@@ -1,0 +1,30 @@
+{
+  "id": "rayfile",
+  "name": "rays files",
+  "version": "1.0.0",
+  "resources": [
+    "stream",
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "id": "rayfile",
+      "name": "rays files",
+      "type": "movie"
+    }
+  ],
+  "idPrefixes": [
+    "rayfile_"
+  ],
+  "streams": [
+    {
+      "name": "rays files",
+      "type": "movie",
+      "id": "rayfile"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rayfile",
+  "version": "1.0.0",
+  "name": "rays files",
+  "resources": [
+    "stream",
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "rayfile",
+      "name": "rays files"
+    }
+  ],
+  "idPrefixes": [
+    "rayfile_"
+  ],
+  "metas": [
+    {
+      "id": "rayfile_1",
+      "type": "movie",
+      "name": "coolest stuff",
+      "poster": "https://i.pinimg.com/736x/b5/22/08/b522082893266a5122349689fbcb7a86.jpg",
+      "description": "coolest"
+    }
+  ],
+  "streams": [
+    {
+      "title": "coolest stuff",
+      "url": "https://ia801706.us.archive.org/31/items/watch-that-time-i-got-reincarnated-as-a-slime-season-3-online-fr/Watch%20That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20Season%203%20online%20fr.ia.mp4",
+      "id": "rayfile_1"
+    }
+  ]
+}
